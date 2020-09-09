@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Vadim NJet](https://up.htmlacademy.ru/htmlcss/29/user/847983).
-* Наставник: `Неизвестно`.
+* Наставник: [Николай Чередник](https://htmlacademy.ru/profile/id867417).
 
 ---
 
